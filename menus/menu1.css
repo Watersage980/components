@@ -1,0 +1,16 @@
+.span1{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.li1{
+    display: inline;
+    padding-right: 30px;
+}
+.header1{
+    background-color: tomato;
+    font-size: medium;
+}

@@ -1,0 +1,31 @@
+.span2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 130px;
+    background-color: black;
+    color: white;
+}
+ 
+.li2{
+    display: inline;
+    padding: 10px 20px 10px 20px ;
+    border: 3px solid black;
+    border-radius: 9px;
+    border-color: gray;
+    background-color: rgba(10, 115, 200, 0.3);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+i{
+    padding-right: 10px;
+}
+
+.li3{
+    display: inline;
+    padding: 10px 20px 10px 20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
