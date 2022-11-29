@@ -1,0 +1,30 @@
+.span1{
+    display: flex;  
+    justify-content: space-between;
+    background-color: black;
+    height: 500px;
+    align-items:center;
+    font-size: large;
+}
+
+.ul1{
+    background-color: brown;
+    width: 60vw;
+    height: 500px;
+    margin: 0;
+}
+
+.li1{
+    list-style-type: none;
+}
+
+.form1{
+    margin-right: 12vw;
+    background-color:darkcyan;
+    padding: 50px 50px 50px 50px;
+}
+
+button{
+    background-color:midnightblue;
+    color: white;
+}
