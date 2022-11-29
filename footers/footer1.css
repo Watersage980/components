@@ -1,11 +1,11 @@
-span{
-    display: flex;  
-    justify-content: space-between;
-    background-color: black;
-    align-items: center;
-    color: white;
-    padding-left: 180px;
-  }
-  li{
-    list-style-type: none;
-  }
+.span1{
+  display: flex;  
+  justify-content: space-between;
+  background-color: black;
+  align-items: center;
+  color: white;
+  padding-left: 180px;
+}
+.li1{
+  list-style-type: none;
+}
