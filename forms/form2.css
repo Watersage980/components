@@ -1,0 +1,17 @@
+.span2{
+    display: flex;  
+    justify-content: space-between;
+    background-color: rgb(150, 143, 143);
+    background-image: url("Home\ 2.PNG");
+    height: 500px;
+    align-items: center;
+    padding-left: 40%;
+    font-size: large;
+}
+
+.form2{
+    margin-right: 10vw;
+    background-color:darkcyan;
+    padding: 15px 30px 15px 50px;
+}
+
