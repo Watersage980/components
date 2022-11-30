@@ -1,5 +1,4 @@
 #grad {
-    height: 200px;
     background-color: red;
     background-image: linear-gradient(to bottom right, red, blue);
     height: 500px;
@@ -23,7 +22,7 @@
 .h42{
     padding-left: 32vw;
 }
-.span2{
+.span3{
     padding-top: 10vh;
     display: block; 
     justify-content: space-between;
