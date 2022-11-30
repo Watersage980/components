@@ -1,0 +1,40 @@
+.span1{
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgb(22, 32, 179);
+    height: 500px;
+    width: 100vw;
+    align-items:center;
+    font-size: large;
+}
+
+span img{
+    height: 500px;
+    width: 30vw;
+}
+
+.span2{
+    margin: 20px;
+    align-items:center;
+}
+
+h3{
+    padding-left: 30vw;
+}
+
+h4{
+    padding-left: 20vw;
+}
+
+button{
+    background-color:rgb(197, 38, 38);
+    color: rgb(0, 0, 0);
+    width: 180px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 20vw;
+}
+
+label{
+    padding-left: 5vw;
+}
