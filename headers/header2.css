@@ -1,0 +1,34 @@
+#grad {
+    height: 200px;
+    background-color: red;
+    background-image: linear-gradient(to bottom right, red, blue);
+    height: 500px;
+    width: 100vw;
+}
+
+.button2{
+    background-color:rgb(197, 38, 38);
+    color: rgb(0, 0, 0);
+    width: 180px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 40vw;
+}
+
+
+.h32{
+    padding-left: 41.5vw;
+}
+
+.h42{
+    padding-left: 32vw;
+}
+.span2{
+    padding-top: 10vh;
+    display: block; 
+    justify-content: space-between;
+    height: 500px;
+    width: 100vw;
+    align-items:center;
+    font-size: large;
+}
