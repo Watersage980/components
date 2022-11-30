@@ -1,0 +1,24 @@
+.span1{
+    display: block; 
+    justify-content: space-between;
+    background-color: rgb(189, 191, 221);
+    height: 500px;
+    width: 100vw;
+    align-items:center;
+    font-size: large;
+}
+
+ul {
+    list-style: none;
+    padding-left: 30vw;
+}
+  
+ul li::before {
+    content: "\2022";
+    color: rgb(38, 38, 230);
+}
+
+.title{
+    padding-left: 40vw;
+    padding-top: 50px;
+}
