@@ -14,7 +14,7 @@ ul {
 }
   
 ul li::before {
-    content: "\2022";
+    content: "\0";
     color: rgb(38, 38, 230);
 }
 
