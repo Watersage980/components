@@ -1,0 +1,26 @@
+.span1{
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgb(6, 180, 79);
+    height: 500px;
+    width: 100vw;
+    align-items:center;
+    font-size: large;
+}
+
+span img{
+    height: 500px;
+    width: 30vw;
+}
+
+.span2{
+    margin-top: -50px;
+}
+
+.h31{
+    padding-right: 30vw;
+}
+
+.h41{
+    padding-right: 20vw;
+}
