@@ -1,0 +1,17 @@
+.span2{
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgb(189, 191, 221);
+    height: 500px;
+    width: 100vw;
+    align-items:center;
+    font-size: large;
+}
+
+.spacer{
+    padding-left: 30vw;
+}
+
+.recaps{
+    padding-right: 25vw;
+}
