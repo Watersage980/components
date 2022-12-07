@@ -1,20 +1,32 @@
 .span2{
     justify-content: space-between;
-    display:inline-block;
+    display:block;
     background-color: rgb(189, 191, 221);
     height: 500px;
     width: 100vw;
     align-items:center;
     font-size: large;
 }
+
 .ul2{
-    padding-left: 30vw;
+    padding-left: 33vw;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
     list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.ul2 li{ 
+    margin: 0px 20px 0px 20px;
 }
 
 h1{
     padding-left: 45vw;
     padding-top: 10vh;
+}
+
+.ideia{
+    padding-left: 33vw;
+    padding-bottom: 50vh;
 }
